@@ -1,6 +1,6 @@
 name: ThinkG
 favicon: null
-layout_spectrum: 0.66668
+layout_spectrum: 0.32572
 typography_spectrum: 0.85127
 title: ThinkG
 cta:
@@ -22,8 +22,8 @@ color:
     - '#74643d'
     - '#4e2b15'
     - '#d0aa70'
-  brandStrength: 0.8125
+  brandStrength: 0.3125
   lightness: 0.5625
-  saturation: 0.1875
+  saturation: 0.625
   rhythmicContrast: 0.75
 purpose: []
