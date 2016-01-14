@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.creative-network.org/event/letsthinkdesign'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: '1 SUSAN LK GORBET DESIGN STRATEGIST, EDUCATOR, FACILITATOR AND ARTIST.  Susan mentors organizations on integrating design and business thinking. Most recently, '
-datePublished: '2016-01-08T13:22:11.259Z'
-dateModified: '2016-01-08T13:21:52.702Z'
+datePublished: '2016-01-14T13:45:54.554Z'
+dateModified: '2016-01-14T13:45:48.122Z'
 author: []
 title: "SUSAN LK GORBET\_"
 sourcePath: _posts/2016-01-08-1-susan-lk-gorbet-design-strategist-educator-facilitator-a.md
@@ -19,11 +18,14 @@ publisher:
   domain: www.creative-network.org
   url: null
   favicon: null
+url: susan-lk-gorbet/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# SUSAN LK GORBET ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08246cbe-6790-4f97-93d5-220c3437e484.jpg)
+# SUSAN LK GORBET 
+
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7990ed42-0cbf-43bb-93dd-a0d734ff2b12.jpg)
 
 ## DESIGN STRATEGIST, EDUCATOR, FACILITATOR AND ARTIST. 
 
